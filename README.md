@@ -73,21 +73,16 @@
 
 ---
 
-<h2 style="text-align: center; color: #dcb242;"> 📊 Popular repos 📊 </h2>
-
-<p style="text-align: center;">
-  <img align="center" alt="JohnAng's GitHub repo stats" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnAng&repo=github-readme-stats&theme=gruvbox" />
-</p>
-
----
-
 <h2 style="text-align: center; color: #dcb242;"> 📊 Stats 📊 </h2>
 
 <p style="text-align: center;">
-  <img align="center" alt="JohnAng's GitHub stats" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox" />
-  <img align="center" alt="JohnAng's GitHub Streak" style="margin:10px;" src="https://streak-stats.demolab.com?user=JohnAng&theme=gruvbox&border_radius=4.5&date_format=j%20M%5B%20Y%5D&type=png" />
+  <img alt="JohnAng's GitHub stats" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox" />
+  <img alt="JohnAng's GitHub Streak" style="margin:10px;" src="https://streak-stats.demolab.com?user=JohnAng&theme=gruvbox&border_radius=4.5&date_format=j%20M%5B%20Y%5D&type=png" />
+  
+  <!-- 
   <img align="center" alt="JohnAng's Most used languages" style="margin:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAng&langs_count=8&layout=compact&theme=gruvbox" />
-  <img align="center" alt="JohnAng's Wakatime stats" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" />
+  <img align="center" alt="JohnAng's Wakatime stats" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" /> 
+  -->
 </p>
 
 ---
