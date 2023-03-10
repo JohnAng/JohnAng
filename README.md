@@ -80,11 +80,11 @@
     <h2 align="center"> 📊 Stats 📊 </h2>
   </summary
   <p align="center">
-    <img alt="JohnAng's GitHub stats" style="margin:40px;" src="https://github-readme-stats.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox" />
-    <img alt="JohnAng's GitHub Streak" style="margin:40px;" src="https://streak-stats.demolab.com?        user=JohnAng&theme=gruvbox&border_radius=4.5&date_format=j%20M%5B%20Y%5D&type=png" />
-    <img alt="JohnAng's Activity graph"  style="margin:40px" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JohnAng&bg_color=282828&color=e8882f&line=99bd7f&point=edc043&hide_border=false" />
-    <img alt="JohnAng's Wakatime stats" align="center" style="margin:40px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" />      
-    <img alt="JohnAng's Most used languages" align="center" style="margin:40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAng&langs_count=8&layout=compact&theme=gruvbox" />   
+    <img alt="JohnAng's GitHub stats" width="400px" style="margin:40px;" src="https://github-readme-stats.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox" />
+    <img alt="JohnAng's GitHub Streak" width="400px" style="margin:40px;" src="https://streak-stats.demolab.com?        user=JohnAng&theme=gruvbox&border_radius=4.5&date_format=j%20M%5B%20Y%5D&type=png" />
+    <img alt="JohnAng's Activity graph" width="800px" style="margin:40px" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JohnAng&bg_color=282828&color=e8882f&line=99bd7f&point=edc043&hide_border=false" />
+    <img alt="JohnAng's Wakatime stats" width="400px" align="center" style="margin:40px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" />      
+    <img alt="JohnAng's Most used languages" width="400px" align="center" style="margin:40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAng&langs_count=8&layout=compact&theme=gruvbox" />   
   </p>  
 </details>
 
