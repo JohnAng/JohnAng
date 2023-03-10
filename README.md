@@ -1,34 +1,36 @@
-<h1 style="text-align: center; color: #e8882f;"> 🕵️ JohnAng 🕵️ </h1>
+<h1 align="center";> 🕵️ JohnAng 🕵️ </h1>
 
-<p style="text-align: center;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=250&color=DCB242&center=true&vCenter=true&multiline=true&repeat=false&width=300&height=100&lines=NeoMatrix+Developer;Analyst;Trader" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=250&color=DCB242&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=100&lines=NeoMatrix+Developer;Analyst;Trader" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-<p style="text-align: center; color: #99bd7f;">
+<p align="center"; color: #99bd7f;">
   I'm an aspiring computer scientist and engineer with a passion for financial markets, AI, data engineering, front/back end development, blockchain development and gaming.
   I'm building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 </p>
 
 ---
-
-<h2 style="text-align: center; color: #dcb242; margin:10px;"> Socials </h2>
-<p style="text-align: center;">
-  <a href="placeholder"><img width="32px" alt="Facebook" title="Twitter" src="https://img.icons8.com/dotty/80/000000/facebook.png"/></a>
-  <a href="placeholder"><img width="32px" alt="Twitter" title="Twitter" src=""/></a>
-  <a href="placeholder"><img width="32px" alt="Instagram" title="Twitter" src=""/></a>
-  <a href="placeholder"><img width="32px" alt="LinkedIn" title="Twitter" src=""/></a>
-  <a href="placeholder"><img width="32px" alt="Youtube" title="Twitter" src=""/></a>
-  <a href="placeholder"><img width="32px" alt="Tik-Tok" title="Twitter" src=""/></a>
-  <a href="placeholder"><img width="32px" alt="Discord" title="Twitter" src=""/></a>
+                                   
+<h2 align="center"; margin:10px;"> Socials </h2>
+<p align="center">
+  <a href=""><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png"></a> 
+  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/color/48/null/twitter-squared.png"/></a>
+  <a href=""><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/></a> 
+  <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
+  <a href=""><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/null/linkedin.png"></a>
 </p>
+
+
 
 ---
 
-<h2 style="text-align: center; color: #dcb242;"> 🧰 Languages and Tools 🧰 </h2>
-
-<p style="text-align: center;">
+<details closed align="center"> 
+  <summary align="center">
+    <h2 align="center"> 🧰 Languages and Tools 🧰 </h2>
+  </summary
+  <p align="center">
     <img align="center" alt="HTML" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img align="center" alt="CSS" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img align="center" alt="Bootstrap" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -67,26 +69,32 @@
     <img align="center" alt="Postgresql" width="30px" style="margin:10px;" src="https://api.iconify.design/logos/postgresql.svg" />
     <img align="center" alt="MongoDB" width="30px" style="margin:10px;" src="https://api.iconify.design/skill-icons/mongodb.svg" />
     <br>
-    <img align="center" alt="PineScript" width="30px" style="margin:10px;" src="https://api.iconify.design/file-icons/pinescript.svg?color=green" />
-    
+    <img align="center" alt="PineScript" width="30px" style="margin:10px;" src="https://api.iconify.design/file-icons/pinescript.svg?color=green" />    
 </p>
+</details>
 
 ---
 
-<h2 style="text-align: center; color: #dcb242;"> 📊 Stats 📊 </h2>
-
-<p style="text-align: center;">
-  <img alt="JohnAng's GitHub stats" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox" />
-  <img alt="JohnAng's GitHub Streak" style="margin:10px;" src="https://streak-stats.demolab.com?user=JohnAng&theme=gruvbox&border_radius=4.5&date_format=j%20M%5B%20Y%5D&type=png" />
-  
-  <!-- 
-  <img align="center" alt="JohnAng's Most used languages" style="margin:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAng&langs_count=8&layout=compact&theme=gruvbox" />
-  <img align="center" alt="JohnAng's Wakatime stats" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" /> 
-  -->
-</p>
+<details closed align="center"> 
+  <summary align="center">
+    <h2 align="center"> 📊 Stats 📊 </h2>
+  </summary
+  <p align="center">
+    <img alt="JohnAng's GitHub stats" style="margin:40px;" src="https://github-readme-stats.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox" />
+    <img alt="JohnAng's GitHub Streak" style="margin:40px;" src="https://streak-stats.demolab.com?        user=JohnAng&theme=gruvbox&border_radius=4.5&date_format=j%20M%5B%20Y%5D&type=png" />
+    <img alt="JohnAng's Activity graph"  style="margin:40px" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JohnAng&bg_color=282828&color=e8882f&line=99bd7f&point=edc043&hide_border=false" />
+    <img alt="JohnAng's Wakatime stats" align="center" style="margin:40px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" />      
+    <img alt="JohnAng's Most used languages" align="center" style="margin:40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAng&langs_count=8&layout=compact&theme=gruvbox" />   
+  </p>  
+</details>
 
 ---
 
-<summary>
-  <h3 style="text-align: center; color: #dcb242;">👨‍💻 JohnAng's Coding Journey 👨‍💻 </h3>
-</summary>
+<details closed align="center">
+  <summary align="center">
+    <h3 align="center">👨‍💻 JohnAng's Coding Journey 👨‍💻 </h3>
+  </summary
+  <p align="center">
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  </p>
+</details>
