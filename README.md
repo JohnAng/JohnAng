@@ -12,7 +12,7 @@
 </p>
 
 ---
-                                   
+
 <h2 align="center"; margin:10px;"> Socials </h2>
 <p align="center">
   <a href=""><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png"></a> 
@@ -21,8 +21,6 @@
   <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
   <a href=""><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/null/linkedin.png"></a>
 </p>
-
-
 
 ---
 
