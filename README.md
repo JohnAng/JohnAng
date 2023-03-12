@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center"; margin:10px;"> Socials </h2>
+<h2 align="center"; margin:5px;"> Socials </h2>
 <p align="center">
   <code><a href=""><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png"></a></code>  
   <code><a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/color/48/null/twitter-squared.png"/></a></code> 
@@ -29,45 +29,45 @@
     <h2 align="center"> 🧰 Languages and Tools 🧰 </h2>
   </summary
   <p align="center">
-    <code><img align="center" alt="HTML" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></code> 
-    <code><img align="center" alt="CSS" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></code> 
-    <code><img align="center" alt="Bootstrap" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code> 
-    <code><img align="center" alt="Tailwind" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code> 
+    <code><img align="center" alt="HTML" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></code> 
+    <code><img align="center" alt="CSS" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></code> 
+    <code><img align="center" alt="Bootstrap" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code> 
+    <code><img align="center" alt="Tailwind" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code> 
     <br>
-    <code><img align="center" alt="JavaScript" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></code> 
-    <code><img align="center" alt="TypeScript" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></code> 
-    <code><img align="center" alt="React" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code> 
-    <code><img align="center" alt="NodeJS" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code> 
-    <code><img align="center" alt="Jest" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code> 
-    <code><img align="center" alt="npm" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code> 
+    <code><img align="center" alt="JavaScript" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></code> 
+    <code><img align="center" alt="TypeScript" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></code> 
+    <code><img align="center" alt="React" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code> 
+    <code><img align="center" alt="NodeJS" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code> 
+    <code><img align="center" alt="Jest" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code> 
+    <code><img align="center" alt="npm" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code> 
     <br>
-    <code><img align="center" alt="Linux" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code> 
-    <code><img align="center" alt="Git" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code> 
-    <code><img align="center" alt="GitHub" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code> 
-    <code><img align="center" alt="Bash" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" ></code> 
+    <code><img align="center" alt="Linux" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code> 
+    <code><img align="center" alt="Git" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code> 
+    <code><img align="center" alt="GitHub" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code> 
+    <code><img align="center" alt="Bash" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" ></code> 
     <br>
-    <code><img align="center" alt="Python" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code> 
-    <code><img align="center" alt="Jupiter" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code> 
-    <code><img align="center" alt="Pandas" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></code> 
-    <code><img align="center" alt="NumPy" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code> 
-    <code><img align="center" alt="matplotlib" width="30px" style="margin:10px;" src="https://api.iconify.design/logos/matplotlib-icon.svg" /></code> 
-    <code><img align="center" alt="seaborne" width="30px" style="margin:10px;" src="https://api.iconify.design/logos/seaborn.svg" /></code> 
-    <code><img align="center" alt="TensorFlow" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code> 
-    <code><img align="center" alt="PyTorch" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code> 
-    <code><img align="center" alt="Django" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></code> 
-    <code><img align="center" alt="Flask" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></code> 
+    <code><img align="center" alt="Python" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code> 
+    <code><img align="center" alt="Jupiter" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code> 
+    <code><img align="center" alt="Pandas" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></code> 
+    <code><img align="center" alt="NumPy" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code> 
+    <code><img align="center" alt="matplotlib" width="20px" style="margin:5px;" src="https://api.iconify.design/logos/matplotlib-icon.svg" /></code> 
+    <code><img align="center" alt="seaborne" width="20px" style="margin:5px;" src="https://api.iconify.design/logos/seaborn.svg" /></code> 
+    <code><img align="center" alt="TensorFlow" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code> 
+    <code><img align="center" alt="PyTorch" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code> 
+    <code><img align="center" alt="Django" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></code> 
+    <code><img align="center" alt="Flask" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></code> 
     <br>
-    <code><img align="center" alt="Java" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code> 
-    <code><img align="center" alt="Gradle" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></code> 
-    <code><img align="center" alt="Maven" width="30px" style="margin:10px;" src="https://api.iconify.design/logos/maven.svg" /></code> 
-    <code><img align="center" alt="Spring" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code> 
+    <code><img align="center" alt="Java" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code> 
+    <code><img align="center" alt="Gradle" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></code> 
+    <code><img align="center" alt="Maven" width="20px" style="margin:5px;" src="https://api.iconify.design/logos/maven.svg" /></code> 
+    <code><img align="center" alt="Spring" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code> 
     <br>
-    <code><img align="center" alt="MySQL" width="30px" style="margin:10px;" src="https://api.iconify.design/logos/mysql.svg" /></code> 
-    <code><img align="center" alt="SQLite" width="30px" style="margin:10px;" src="https://api.iconify.design/logos/sqlite.svg" /></code> 
-    <code><img align="center" alt="Postgresql" width="30px" style="margin:10px;" src="https://api.iconify.design/logos/postgresql.svg" /></code> 
-    <code><img align="center" alt="MongoDB" width="30px" style="margin:10px;" src="https://api.iconify.design/skill-icons/mongodb.svg" /></code> 
+    <code><img align="center" alt="MySQL" width="20px" style="margin:5px;" src="https://api.iconify.design/logos/mysql.svg" /></code> 
+    <code><img align="center" alt="SQLite" width="20px" style="margin:5px;" src="https://api.iconify.design/logos/sqlite.svg" /></code> 
+    <code><img align="center" alt="Postgresql" width="20px" style="margin:5px;" src="https://api.iconify.design/logos/postgresql.svg" /></code> 
+    <code><img align="center" alt="MongoDB" width="20px" style="margin:5px;" src="https://api.iconify.design/skill-icons/mongodb.svg" /></code> 
     <br>
-    <code><img align="center" alt="PineScript" width="30px" style="margin:10px;" src="https://api.iconify.design/file-icons/pinescript.svg?color=green" /></code>    
+    <code><img align="center" alt="PineScript" width="20px" style="margin:5px;" src="https://api.iconify.design/file-icons/pinescript.svg?color=green" /></code>    
   </p>
 </details>
 
