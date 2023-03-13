@@ -87,8 +87,8 @@
     </div>
     <br>
     <div align="center">
-      <img align="center" alt="JohnAng's Wakatime stats" width="390" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" />
-      <img align="center" alt="JohnAng's Wakatime stats" width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAng&langs_count=10&layout=compact&theme=gruvbox" />
+<!--       <img align="center" alt="JohnAng's Wakatime stats" width="390" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" /> -->
+      <img align="center" alt="JohnAng's top languages stats" width="390" align="center" src="https://github-readme-stats-bay-two.vercel.app/api/top-langs/?username=JohnAng&langs_count=10&layout=compact&theme=gruvbox" />
     </div>
     <br>
     <div align="center">
