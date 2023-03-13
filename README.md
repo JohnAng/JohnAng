@@ -82,12 +82,13 @@
   </summary
   <p align="center">
     <div align=center>
-      <img align="center" alt="JohnAng's GitHub stats" width="390" height="160" src="https://github-readme-stats.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox" />
+      <img align="center" alt="JohnAng's GitHub stats" width="390" height="160" src="https://github-readme-stats.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox&count_private=true" />
       <img align="center" alt="JohnAng's GitHub Streak" width="390" height="160" src="https://streak-stats.demolab.com?        user=JohnAng&theme=gruvbox&border_radius=4.5&date_format=j%20M%5B%20Y%5D&type=png" />
     </div>
     <br>
     <div align="center">
       <img align="center" alt="JohnAng's Wakatime stats" width="390" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" />
+      <img align="center" alt="JohnAng's Wakatime stats" width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAng&langs_count=10&layout=compact&theme=gruvbox" />
     </div>
     <br>
     <div align="center">
