@@ -82,7 +82,7 @@
   </summary
   <p align="center">
     <div align=center>
-      <img align="center" alt="JohnAng's GitHub stats" width="390" height="160" src="https://github-readme-stats.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox&count_private=true" />
+      <img align="center" alt="JohnAng's GitHub stats" width="390" height="160" src="https://github-readme-stats-bay-two.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
       <img align="center" alt="JohnAng's GitHub Streak" width="390" height="160" src="https://github-readme-streak-stats-xi.vercel.app?user=JohnAng&theme=gruvbox&date_format=j%20M%5B%20Y%5D" />
     </div>
     <br>
@@ -92,7 +92,7 @@
     </div>
     <br>
     <div align="center">
-      <img align="center" alt="JohnAng's Activity graph" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JohnAng&bg_color=282828&color=edc043&line=99bd7f&point=e8882f&hide_border=false" />   
+      <img align="center" alt="JohnAng's Activity graph" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JohnAng&radius=10&bg_color=282828&color=edc043&line=99bd7f&point=e8882f&area=true&area_color=5b704b&hide_border=false" />   
     </div>  
   </p>  
 </details>
