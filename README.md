@@ -83,12 +83,12 @@
   <p align="center">
     <div align=center>
       <img align="center" alt="JohnAng's GitHub stats" width="390" height="160" src="https://github-readme-stats-bay-two.vercel.app/api?username=JohnAng&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-<!--       <img align="center" alt="JohnAng's GitHub Streak" width="390" height="160" src="https://github-readme-streak-stats-xi.vercel.app?user=JohnAng&theme=gruvbox&date_format=j%20M%5B%20Y%5D" /> -->
+      <img align="center" alt="JohnAng's GitHub Streak" width="390" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=johnang&theme=gruvbox&date_format=j%20M%5B%20Y%5D" />
     </div>
     <br>
     <div align="center">
 <!--       <img align="center" alt="JohnAng's Wakatime stats" width="390" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" /> -->
-      <img align="center" alt="JohnAng's top languages stats" width="390" align="center" src="https://github-readme-stats-bay-two.vercel.app/api/top-langs/?username=JohnAng&langs_count=10&layout=compact&theme=gruvbox" />
+      <img align="center" alt="JohnAng's top languages stats" align="center" src="https://github-readme-stats-bay-two.vercel.app/api/top-langs/?username=JohnAng&langs_count=10&layout=compact&theme=gruvbox" />
     </div>
     <br>
     <div align="center">
