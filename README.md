@@ -1,6 +1,8 @@
 <h1 align="center";> 🕵️ JohnAng 🕵️ </h1>
 
-
+<p align="center">
+  <img alt="glitching gif" title="Programmer disrupting the matrix" src="https://user-images.githubusercontent.com/11021994/224852994-4badf940-80c6-4479-b39b-a807f55fc2ca.gif">
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=250&color=DCB242&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=100&lines=NeoMatrix+Developer;Analyst;Trader" alt="Typing SVG" /></a>
