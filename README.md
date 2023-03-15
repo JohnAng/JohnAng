@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center"; margin:5px;"> Socials </h2>
+<!-- <h2 align="center"; margin:5px;"> Socials </h2> -->
 <p align="center">
   <code><a href=""><img width="32px" alt="Facebook" title="Facebook" src="./icons/facebook-box-fill.png"> Facebook</a></code>
   <code><a href=""><img width="32px" alt="LinkedIn" title="LinkedIn" src="./icons/linkedin-box-fill.png"> LinkedIn</a></code> 
@@ -28,7 +28,7 @@
 
 <details closed align="center"> 
   <summary align="center">
-    <h2 align="center"> 🧰 Languages and Tools 🧰 </h2>
+    <h2 align="center"> <code><img width="32px" alt="Languages and Tools" title="Languages and Tools" src="./icons/tools-fill.png"> Languages and Tools <img width="32px" alt="Languages and Tools" title="Languages and Tools" src="./icons/tools-fill.png"></code></h2>
   </summary
   <p align="center">
     <code><img align="center" alt="HTML" width="20px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></code> 
@@ -77,7 +77,7 @@
 
 <details closed align="center"> 
   <summary align="center">
-    <h2 align="center"> 📊 Stats 📊 </h2>
+    <h2 align="center"> <code><img width="32px" alt="Stats" title="Stats" src="./icons/line-chart-fill.png"> Stats <img width="32px" alt="Stats" title="Stats" src="./icons/line-chart-fill.png"></code> </h2>
   </summary
   <p align="center">
     <div align=center>
@@ -100,7 +100,7 @@
 
 <details closed align="center">
   <summary align="center">
-    <h3 align="center">👨‍💻 JohnAng's Coding Journey 👨‍💻 </h3>
+    <h2 align="center"> <code><img width="32px" alt="Bio" title="Bio" src="./icons/code-s-fill.png"> Bio <img width="32px" alt="Bio" title="Bio" src="./icons/code-s-slash-fill.png"></code> </h2>
   </summary
   <p align="center">
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
