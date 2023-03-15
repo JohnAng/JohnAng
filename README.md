@@ -1,31 +1,28 @@
 <h1 align="center";> 🕵️ JohnAng 🕵️ </h1>
 
 <p align="center">
-  <img alt="glitching gif" title="Programmer disrupting the matrix" src="https://user-images.githubusercontent.com/11021994/224852994-4badf940-80c6-4479-b39b-a807f55fc2ca.gif">
+  <img alt="glitching gif" title="Programmer disrupting the matrix" src="./gifs/glitched_coding.gif">
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=250&color=DCB242&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=100&lines=NeoMatrix+Developer;Analyst;Trader" alt="Typing SVG" /></a>
 </p>
 
-
 ---
 
 <h2 align="center"; margin:5px;"> Socials </h2>
 <p align="center">
-  <code><a href=""><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png"> Facebook</a></code>
-  <code><a href=""><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/null/linkedin.png"> LinkedIn</a></code> 
-  <code><a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/color/48/null/twitter-squared.png"/> Twitter</a></code> 
-  <code><a href=""><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/> Instagram</a></code>  
-  <code><a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/color/48/null/youtube-play.png"/> Youtube</a></code>  
+  <code><a href=""><img width="32px" alt="Facebook" title="Facebook" src="./icons/facebook-box-fill.png"> Facebook</a></code>
+  <code><a href=""><img width="32px" alt="LinkedIn" title="LinkedIn" src="./icons/linkedin-box-fill.png"> LinkedIn</a></code> 
+  <code><a href=""><img width="32px" alt="Twitter" title="Twitter" src="./icons/twitter-fill.png"/> Twitter</a></code> 
+  <code><a href=""><img width="32px" alt="Instagram" title="Instagram" src="./icons/instagram-fill.png"/> Instagram</a></code>  
+  <code><a href=""><img width="32px" alt="Youtube" title="Youtube" src="./icons/youtube-fill.png"/> Youtube</a></code>  
 </p>
-
-
 
 <p align="center"; color: #99bd7f;">
   I'm an aspiring computer scientist and engineer with a passion for financial markets, AI, data engineering, front/back end development, blockchain development and gaming.
   I'm building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-</p>                                                                                                                            
+</p>
 
 ---
 
