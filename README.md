@@ -1,4 +1,4 @@
-<h1 align="center";> 🕵️ JohnAng 🕵️ </h1>
+<h1 align="center";> <code> 🕵️ JohnAng 🕵️ </code> </h1>
 
 <p align="center">
   <img alt="glitching gif" title="Programmer disrupting the matrix" src="./gifs/glitched_coding.gif">
