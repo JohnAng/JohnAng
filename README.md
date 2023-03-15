@@ -110,3 +110,9 @@
 <p align="center">
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=JohnAng.JohnAng">
 </p>
+
+<br>
+
+<p align="center">
+  <img align="center" src="gifs/bars.svg">
+</p>
