@@ -1,14 +1,15 @@
 <h1 align="center";> <code> 🕵️ JohnAng 🕵️ </code> </h1>
 
 <p align="center">
-  <img alt="glitching gif" title="Programmer disrupting the matrix" src="./gifs/glitched_coding.gif">
+  <img alt="glitching gif" title="Programmer disrupting the matrix" src="./gif/glitched_orange_coder.gif">
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=250&color=DCB242&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=100&lines=NeoMatrix+Developer;Analyst;Trader" alt="Typing SVG" /></a>
 </p>
-
----
+<p align="center">
+  <img align="center" src="svg/firstBar.svg">
+</p>
 
 <!-- <h2 align="center"; margin:5px;"> Socials </h2> -->
 <p align="center">
@@ -24,9 +25,11 @@
   I'm building my version of the digital world one step at a time by solving real-life problems with code.
 </p>
 
----
+<p align="center">
+  <img align="center" src="svg/secondBar.svg">
+</p>
 
-<details closed align="center"> 
+<details open align="center"> 
   <summary align="center">
     <h2 align="center"> <code><img width="32px" alt="Languages and Tools" title="Languages and Tools" src="./icons/tools-fill.png"> Languages and Tools <img width="32px" alt="Languages and Tools" title="Languages and Tools" src="./icons/tools-fill.png"></code></h2>
   </summary
@@ -73,9 +76,11 @@
   </p>
 </details>
 
----
+<p align="center">
+  <img align="center" src="svg/thirdBar.svg">
+</p>
 
-<details closed align="center"> 
+<details open align="center"> 
   <summary align="center">
     <h2 align="center"> <code><img width="32px" alt="Stats" title="Stats" src="./icons/line-chart-fill.png"> Stats <img width="32px" alt="Stats" title="Stats" src="./icons/line-chart-fill.png"></code> </h2>
   </summary
@@ -96,7 +101,9 @@
   </p>  
 </details>
 
----
+<p align="center">
+  <img align="center" src="svg/fourthBar.svg">
+</p>
 
 <details closed align="center">
   <summary align="center">
@@ -114,5 +121,5 @@
 <br>
 
 <p align="center">
-  <img align="center" src="gifs/bars.svg">
+  <img align="center" src="svg/firstBar.svg">
 </p>

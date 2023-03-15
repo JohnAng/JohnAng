@@ -48,7 +48,7 @@
     <rect fill="#c6a84a" x="3510" y="120" width="720" height="10"/>
     <animateTransform attributeName="transform" attributeType="XML" type="translate" from="-3050" to="0" dur="25s" repeatCount="indefinite" fill="#282828"/>
   </g>
-  <g>
+  <!-- <g>
     <rect fill="#c6a84a" x="1820" y="180" width="180" height="10"/>
     <rect fill="#282828" x="1180" y="180" width="180" height="10"/>
     <rect fill="#c6a84a" x="2820" y="180" width="360" height="10"/>
@@ -64,8 +64,8 @@
     <rect fill="#282828" x="3230" y="180" width="540" height="10"/>
     <rect fill="#282828" x="5280" y="180" width="720" height="10"/>
     <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0" to="-3230" dur="15s" repeatCount="indefinite" fill="#282828"/>
-  </g>
-  <g>
+  </g> -->
+  <!-- <g>
     <rect fill="#282828" x="3050" y="240" width="180" height="10"/>
     <rect fill="#282828" x="2230" y="240" width="180" height="10"/>
     <rect fill="#c6a84a" x="410" y="240" width="180" height="10"/>
@@ -83,8 +83,8 @@
     <rect fill="#c6a84a" x="4510" y="240" width="540" height="10"/>
     <rect fill="#282828" x="3920" y="240" width="540" height="10"/>
     <animateTransform attributeName="transform" attributeType="XML" type="translate" from="-3280" to="0" dur="20s" repeatCount="indefinite" fill="#282828"/>
-  </g>
-  <g>
+  </g> -->
+  <!-- <g>
     <rect fill="#c6a84a" x="770" y="300" width="180" height="10"/>
     <rect fill="#282828" x="2180" y="300" width="360" height="10"/>
     <rect fill="#c6a84a" x="1770" y="300" width="360" height="10"/>
@@ -98,5 +98,5 @@
     <rect fill="#282828" x="4180" y="300" width="720" height="10"/>
     <rect fill="#282828" x="3180" y="300" width="720" height="10"/>
     <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0" to="-3180" dur="15s" repeatCount="indefinite" fill="#282828"/>
-  </g>
+  </g> -->
 </svg>
