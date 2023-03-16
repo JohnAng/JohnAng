@@ -1,4 +1,4 @@
-<h1 align="center";> <code> 🕵️ JohnAng 🕵️ </code> </h1>
+<h1 align="center";> <code> <img width="32px" alt="spy icon" title="spy icon" src="./icons/spy-fill.png"> JohnAng <img width="32px" alt="spy icon" title="spy icon" src="./icons/spy-fill.png"> </code> </h1>
 
 <p align="center">
   <img alt="glitching gif" title="Programmer disrupting the matrix" src="./gif/glitched_orange_coder.gif">
