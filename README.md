@@ -17,7 +17,6 @@
   <code><a href="https://www.linkedin.com/in/ioannis-angelakos/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./icons/linkedin-box-fill.png"> LinkedIn</a></code> 
   <code><a href="https://twitter.com/John__Ang"><img width="32px" alt="Twitter" title="Twitter" src="./icons/twitter-fill.png"/> Twitter</a></code> 
   <code><a href="https://www.instagram.com/angelakos__john/"><img width="32px" alt="Instagram" title="Instagram" src="./icons/instagram-fill.png"/> Instagram</a></code>  
-  <code><a href=""><img width="32px" alt="Youtube" title="Youtube" src="./icons/youtube-fill.png"/> Youtube</a></code>  
 </p>
 
 <p align="center"; color: #99bd7f;">
