@@ -94,9 +94,9 @@
       <img align="center" alt="JohnAng's top languages stats" align="center" src="https://github-readme-stats-bay-two.vercel.app/api/top-langs/?username=JohnAng&langs_count=10&layout=compact&theme=gruvbox" />
     </div>
     <br>
-    <div align="center">
+<!--     <div align="center">
       <img align="center" alt="JohnAng's Activity graph" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JohnAng&radius=10&bg_color=282828&color=edc043&line=99bd7f&point=e8882f&area=true&area_color=5b704b&hide_border=false" />   
-    </div>  
+    </div>   -->
   </p>  
 </details>
 
