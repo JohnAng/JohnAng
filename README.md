@@ -28,7 +28,7 @@
   <img align="center" src="svg/secondBar.svg">
 </p>
 
-<details open align="center"> 
+<details align="center"> 
   <summary align="center">
     <h2 align="center"> <code><img width="32px" alt="Languages and Tools" title="Languages and Tools" src="./icons/tools-fill.png"> Languages and Tools <img width="32px" alt="Languages and Tools" title="Languages and Tools" src="./icons/tools-fill.png"></code></h2>
   </summary
@@ -89,14 +89,6 @@
       <img align="center" alt="JohnAng's GitHub Streak" width="390" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=johnang&theme=gruvbox&date_format=j%20M%5B%20Y%5D" />
     </div>
     <br>
-    <div align="center">
-<!--       <img align="center" alt="JohnAng's Wakatime stats" width="390" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnAng&theme=gruvbox" /> -->
-      <img align="center" alt="JohnAng's top languages stats" align="center" src="https://github-readme-stats-bay-two.vercel.app/api/top-langs/?username=JohnAng&langs_count=10&layout=compact&theme=gruvbox" />
-    </div>
-    <br>
-<!--     <div align="center">
-      <img align="center" alt="JohnAng's Activity graph" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JohnAng&radius=10&bg_color=282828&color=edc043&line=99bd7f&point=e8882f&area=true&area_color=5b704b&hide_border=false" />   
-    </div>   -->
   </p>  
 </details>
 
@@ -104,21 +96,10 @@
   <img align="center" src="svg/fourthBar.svg">
 </p>
 
-<details closed align="center">
-  <summary align="center">
-    <h2 align="center"> <code><img width="32px" alt="Bio" title="Bio" src="./icons/code-s-fill.png"> Bio <img width="32px" alt="Bio" title="Bio" src="./icons/code-s-slash-fill.png"></code> </h2>
-  </summary
-  <p align="center">
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  </p>
-</details>
 
 <p align="center">
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=JohnAng.JohnAng">
 </p>
 
-<br>
 
-<p align="center">
-  <img align="center" src="svg/firstBar.svg">
-</p>
+
