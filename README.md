@@ -4,12 +4,14 @@
   <img alt="glitching gif" title="Programmer disrupting the matrix" src="./gif/glitched_orange_coder.gif">
 </p>
 
+<!-- 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=250&color=DCB242&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=100&lines=NeoMatrix+Developer;Analyst;Trader" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img align="center" src="svg/firstBar.svg">
 </p>
+-->
 
 <!-- <h2 align="center"; margin:5px;"> Socials </h2> -->
 <p align="center">
