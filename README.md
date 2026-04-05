@@ -14,12 +14,12 @@
 -->
 
 <!-- <h2 align="center"; margin:5px;"> Socials </h2> -->
-<p align="center">
+<!-- <p align="center">
   <code><a href="https://www.facebook.com/John.Aggelakos"><img width="32px" alt="Facebook" title="Facebook" src="./icons/facebook-box-fill.png"> Facebook</a></code>
   <code><a href="https://www.linkedin.com/in/ioannis-angelakos/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./icons/linkedin-box-fill.png"> LinkedIn</a></code> 
   <code><a href="https://twitter.com/John__Ang"><img width="32px" alt="Twitter" title="Twitter" src="./icons/twitter-fill.png"/> Twitter</a></code> 
   <code><a href="https://www.instagram.com/angelakos__john/"><img width="32px" alt="Instagram" title="Instagram" src="./icons/instagram-fill.png"/> Instagram</a></code>  
-</p>
+</p> -->
 
 <p align="center"; color: #99bd7f;">
   I'm an aspiring computer scientist and engineer with a passion for financial markets, AI, data engineering, front/back end development, blockchain development and gaming.
